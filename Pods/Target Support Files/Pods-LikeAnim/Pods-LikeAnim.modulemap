@@ -1,0 +1,6 @@
+framework module Pods_LikeAnim {
+  umbrella header "Pods-LikeAnim-umbrella.h"
+
+  export *
+  module * { export * }
+}
